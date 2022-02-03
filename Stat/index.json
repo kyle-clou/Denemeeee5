@@ -1,0 +1,19 @@
+{
+  "prefixes": [".", "!","?","/","!!","+", "mahser!"],
+  "sunucu": "859478290154127360",
+  "mongoURI": "mongodb+srv://ada:talha123@adasdatabase.pgnhu.mongodb.net/ada",
+  "mongoInviteURL" : "",	
+  "owners": ["817747393025015828"],
+  "botBaglanti": false,
+  "norole": [],
+  "status": "dnd",
+  "durum" : ".stats -Mahşer Ses Aktifliği Gösteren Bot.",
+  "yonetim" : "881837112096333864",
+  "alone": "881256775045771306", 
+  "public": "859478290154127368", 
+  "secret": "876489189976317962",
+  "register": "866687780000104458",
+"botVoiceChannel" : "881837829766934548",
+  "oyun": ["863521905440456734"],
+  "sleep": "881257060371693659"
+}

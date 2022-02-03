@@ -1,0 +1,2 @@
+
+require("./starter/start.js")();
