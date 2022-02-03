@@ -1,19 +1,6 @@
 module.exports = {
   apps : [
-{
-  name: "Moderation-bot-main",
-  script: "index.js",
-  watch: true,
-  ignore_watch: "node_modules",
-  exec_mode: "cluster",
-  cwd: "./MyBots/Moderation",
-  env: {
-      NODE_ENV: "development",
-    },
-    env_production: {
-      NODE_ENV: "production",
-    }
-},
+
 {
   name: "Stat-bot-main",
   script: "index.js",
@@ -27,7 +14,7 @@ module.exports = {
       NODE_ENV: "production",
     }
 },
-/*
+
 {
   name: "Guard1-bot-main",
   script: "index.js",
@@ -42,8 +29,8 @@ module.exports = {
   exec_mode: "cluster",
   cwd: "./MyBots/Guard2"
 },
-*/
-/*
+
+
 {
   name: "Backup-bot-main",
   script: "index.js",
@@ -58,7 +45,7 @@ module.exports = {
     }
 },
 
-/*
+
 {
   name: "Backup2-bot-main",
   script: "index.js",
@@ -67,7 +54,7 @@ module.exports = {
   cwd: "./MyBots/Backup"
 },
 
-*/
+
 
 
   ]
